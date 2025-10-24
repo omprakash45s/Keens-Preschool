@@ -2128,7 +2128,8 @@ ol {
   }
 }
 .header-wrapper .logo a img {
-  max-width: 100%;
+  width: 150px;
+  height: auto;
 }
 @media (max-width: 575px) {
   .header-wrapper .logo {
