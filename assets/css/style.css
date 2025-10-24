@@ -1648,7 +1648,7 @@ ol {
 }
 
 .slider__pagination-3 .swiper-pagination-bullet {
-  background-color: #125875;
+  background-color: #00c2cb;
   width: 6px;
   border: none;
   height: 6px;
@@ -1885,7 +1885,7 @@ ol {
 }
 
 .gradient-text--brand2 {
-  background: -webkit-linear-gradient(#125875, #FF7350);
+  background: -webkit-linear-gradient(#00c2cb, #FF7350);
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -ms-background-clip: text;
@@ -1939,7 +1939,7 @@ ol {
 }
 
 .brand-2 {
-  background-color: #125875;
+  background-color: #00c2cb;
 }
 
 .brand2-bg-1 {
@@ -4075,7 +4075,7 @@ ol {
   color: #fff;
 }
 .trk-btn--secondary2 {
-  background-color: #125875;
+  background-color: #00c2cb;
   color: #fff;
 }
 .trk-btn--secondary3 {
@@ -4178,7 +4178,7 @@ ol {
   border-color: #101828;
 }
 .trk-btn--secondary.brand-2 {
-  border: 1.5px solid #125875;
+  border: 1.5px solid #00c2cb;
   border-radius: 8px;
   padding: 1.125rem 1.85rem;
 }
@@ -4202,7 +4202,7 @@ ol {
   color: #fff;
 }
 .trk-btn--secondary:hover.brand-2 {
-  background-color: #125875;
+  background-color: #00c2cb;
 }
 .trk-btn--secondary:hover.brand-3 {
   background-color: #463266;
@@ -4294,7 +4294,7 @@ ol {
   background: #081A28;
 }
 .preloader--style2 {
-  background-color: #125875;
+  background-color: #00c2cb;
 }
 .preloader--style3 {
   background-color: #463266;
@@ -5552,8 +5552,8 @@ ol {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
   border-radius: 50%;
-  background-color: #125875;
-  border: 1px solid #125875;
+  background-color: #00c2cb;
+  border: 1px solid #00c2cb;
   color: #fff;
   transition: all 0.3s linear;
   display: grid;
@@ -6824,7 +6824,7 @@ ol {
 .testimonial--style2 .testimonial__item-content span i,
 .testimonial--style2 .testimonial__item-content span svg {
   font-size: calc(1.5625rem + 3.2142857143vw);
-  color: #125875;
+  color: #00c2cb;
 }
 @media (min-width: 1400px) {
   .testimonial--style2 .testimonial__item-content span i,
@@ -7463,8 +7463,8 @@ ol {
   padding: 20px;
   border-top-right-radius: 12px;
   border-bottom-right-radius: 12px;
-  background: #125875;
-  border-color: #125875;
+  background: #00c2cb;
+  border-color: #00c2cb;
   font-size: 1rem;
 }
 @media (min-width: 576px) {
