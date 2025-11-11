@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "keens-preschool",
+    "default": "keens-preschool"
+  },
+  "targets": {},
+  "etags": {}
+}
